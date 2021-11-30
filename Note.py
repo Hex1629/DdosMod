@@ -19,22 +19,7 @@ def slowprints(s):
         time.sleep(2.0/90)
 slowprints('''\033[33mDDOSMOD \033[0m''')
 slowprints('''\033[36mWelcome to DdosMod
-Code by Ha3MrX
-
-Cr. Ha3MrX
-
-Code by 4L13199
-
-Cr. 4L13199
-
-Code by Pavithran-R
-
-Cr.Pavithran-R
-
-Link Ddos Attack:https://github.com/Ha3MrX
-
-Link Ddos LITE:https://github.com/4L13199/LITEDDOS
-
-Link Ddos Hammer:https://github.com/Pavithran-R/Hammer/\033[0m''')
+Update:
+New ddos\033[0m''')
 slowprints('''\033[34m+----------------------------------------------+\033[0m''')
 sys.exit()
