@@ -20,6 +20,23 @@ def slowprints(s):
 slowprints('''\033[33mDDOSMOD \033[0m''')
 slowprints('''\033[36mWelcome to DdosMod
 Update:
-New ddos\033[0m''')
+
+New Ddos
+
+Cr.Leeon123
+
+Cr. Ha3MrX
+
+Cr. 4L13199
+
+Cr.Pavithran-R
+
+Link Ddos Tcp/udp:https://github.com/Leeon123/TCP-UDP-Flood
+
+Link Ddos Attack:https://github.com/Ha3MrX
+
+Link Ddos LITE:https://github.com/4L13199/LITEDDOS
+
+Link Ddos Hammer:https://github.com/Pavithran-R/Hammer/\033[0m''')
 slowprints('''\033[34m+----------------------------------------------+\033[0m''')
 sys.exit()
