@@ -4,7 +4,7 @@ Welcome to DdosMod v1.0
 
 Update:
 
-New Ddos
+Fix Update.sh
 
 Cr.Leeon123
 
