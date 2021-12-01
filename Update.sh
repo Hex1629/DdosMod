@@ -1,6 +1,4 @@
-cd /$HOME
-rm -r DdosMod
+cd ..
+rm -rf DdosMod
 git clone https://github.com/Hex1629/DdosMod
-cd /sdcard
-cd /$HOME
-exit
+cd DdosMod
