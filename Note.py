@@ -21,7 +21,7 @@ slowprints('''\033[33mDDOSMOD \033[0m''')
 slowprints('''\033[36mWelcome to DdosMod
 Update:
 
-New Ddos
+Fix Update
 
 Cr.Leeon123
 
