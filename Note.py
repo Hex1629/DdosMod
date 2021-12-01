@@ -21,7 +21,9 @@ slowprints('''\033[33mDDOSMOD \033[0m''')
 slowprints('''\033[36mWelcome to DdosMod
 Update:
 
-Fix Update
+New TCP DDos
+
+Cr.Malam-x
 
 Cr.Leeon123
 
@@ -30,6 +32,8 @@ Cr. Ha3MrX
 Cr. 4L13199
 
 Cr.Pavithran-R
+
+Link Ddos TCP:https://github.com/Malam-X/TCP-Flood
 
 Link Ddos Tcp/udp:https://github.com/Leeon123/TCP-UDP-Flood
 
