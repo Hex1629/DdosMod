@@ -4,7 +4,9 @@ Welcome to DdosMod v1.0
 
 Update:
 
-Fix Update.sh
+New tcp ddos
+
+Cr.Malam-X
 
 Cr.Leeon123
 
@@ -13,6 +15,8 @@ Cr. Ha3MrX
 Cr. 4L13199
 
 Cr.Pavithran-R
+
+Link Ddos TCP:https://github.com/Malam-X/TCP-Flood
 
 Link Ddos Tcp/udp:https://github.com/Leeon123/TCP-UDP-Flood
 
