@@ -4,7 +4,7 @@ Welcome to DdosMod v1.0
 
 Update:
 
-New tcp ddos
+New ddos
 
 Cr.Malam-X
 
