@@ -21,7 +21,7 @@ slowprints('''\033[33mDDOSMOD \033[0m''')
 slowprints('''\033[36mWelcome to DdosMod
 Update:
 
-New TCP DDos
+New DDos
 
 Cr.Malam-x
 
