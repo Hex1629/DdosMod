@@ -1,20 +1,10 @@
-# DdosMod
+# DdosMod #
 
-Welcome to DdosMod v1.0
+Welcome to DdosMod v2.0
 
 Update:
 
-New ddos
-
-Cr.Malam-X
-
-Cr.Leeon123
-
-Cr. Ha3MrX
-
-Cr. 4L13199
-
-Cr.Pavithran-R
+New ddos Http
 
 Link Ddos Http:https://github.com/D4Vinci/PyFlooder
 
